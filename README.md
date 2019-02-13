@@ -10,3 +10,12 @@
 ### one button
 
 ![](https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Week3hw.pdf)
+
+
+## week 3
+
+### love-o-meter
+
+
+
+### color mixing lamp
