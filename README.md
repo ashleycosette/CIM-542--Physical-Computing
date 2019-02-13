@@ -16,6 +16,6 @@
 
 ### love-o-meter
 
-
+[love-o-meter code](https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Loveometer/Loveometer.ino)
 
 ### color mixing lamp
