@@ -20,4 +20,4 @@
 
 ### color mixing lamp
 
-[color mixing code]()
+[color mixing code](https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Colormixing/Colormixing/Colormixing.ino)
