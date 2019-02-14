@@ -24,3 +24,5 @@
 ### color mixing lamp
 
 [color mixing code](https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Colormixing/Colormixing/Colormixing.ino)
+
+<a href="https://youtu.be/pTP186-Y4ck"> Link to color mixing
