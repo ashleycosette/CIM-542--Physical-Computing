@@ -17,6 +17,12 @@ void loop() {
     photoRead = lowLimit;
   }
 
+  if (photoRead < highlimit) {
+    photoRead = highLimit;
+  }
+
+  
+
   int mapped = map(photoRead, 0, 350, 31, 4978);
   Serial.print("photoRead");
   Serial.print(photoRead);
