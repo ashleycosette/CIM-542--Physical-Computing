@@ -26,3 +26,7 @@
 [color mixing code](https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Colormixing/Colormixing/Colormixing.ino)
 
 <a href="https://youtu.be/pTP186-Y4ck"> Link to color mixing</a>
+
+## week 5
+
+[sensor walk link] (https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Sensor%20Walk.pages)
