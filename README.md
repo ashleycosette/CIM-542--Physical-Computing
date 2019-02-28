@@ -30,3 +30,7 @@
 ## week 5
 
 [sensor walk link] (https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Sensor%20Walk.pages)
+
+[knocklock code](https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Knocklock/Knocklock.ino)
+
+<a href=""> Link to knocklock</a>
