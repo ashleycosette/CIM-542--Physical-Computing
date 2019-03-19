@@ -34,3 +34,7 @@
 [knocklock code](https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Knocklock/Knocklock.ino)
 
 <a href="https://youtu.be/XMIkHGTexU8"> Link to knocklock</a>
+
+## week 6
+
+[powerpoint] (https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Sensor%20Walk.pages)
