@@ -38,3 +38,7 @@
 ## week 6
 
 [powerpoint] (https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/Midterm/Midterm%20Physical%20Computing.pptx)
+
+
+
+## Midterm
