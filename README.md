@@ -42,5 +42,5 @@
 
 
 ## Midterm
-
+[folder including answers to questions, videos, pictures and readme]
 https://github.com/ashleycosette/CIM-542--Physical-Computing/tree/master/Midterm
