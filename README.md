@@ -42,3 +42,5 @@
 
 
 ## Midterm
+
+https://github.com/ashleycosette/CIM-542--Physical-Computing/tree/master/Midterm
