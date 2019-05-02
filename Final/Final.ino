@@ -1,4 +1,4 @@
- #include <Servo.h>
+  #include <Servo.h>
 
 int switchPin = 2;
 //int led1 = 3;
@@ -18,7 +18,6 @@ int pos = 0;    // variable to store the servo position
 
 
 Servo servo1;
-Servo servo2;
 
 void setup() {
   // put your setup code here, to run once:
@@ -38,11 +37,11 @@ void setup() {
 }
 
 void loop() {
-
+ 
   servo1.write(130);
-  delay(5000);
+  delay(2000);
   servo1.write(50);
-  delay(5000);
+  delay(2000);
 //  // put your main code here, to run repeatedly:
 //  switchRead = digitalRead(switchPin);
 //  Serial.print("switch: ");
