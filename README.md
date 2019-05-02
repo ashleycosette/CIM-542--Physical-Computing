@@ -49,3 +49,8 @@ https://github.com/ashleycosette/CIM-542--Physical-Computing/tree/master/Midterm
 ## 3D Printing Parts
 
 https://github.com/ashleycosette/CIM-542--Physical-Computing/blob/master/IMG_4189.jpeg
+
+
+## FINAL
+[folder including answers to questions, videos, pictures and readme]
+https://github.com/ashleycosette/CIM-542--Physical-Computing/tree/master/Final
